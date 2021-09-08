@@ -1,16 +1,15 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://github.com/Lucas-Rodrigues-code/Meu-Portf-lio/raw/main/banner.png" >
+</p>
 
-<!--
-**Lucas-Rodrigues-code/Lucas-Rodrigues-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#  Lucas Rodrigues de Souza
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Cientista de dados padawan, que busca mostrar seu trabalho através do portfólio e ajudar quem está no começo com alguns projetos bacanas. Afinal de contas… Não precisa ser um faixa preta para ensinar algo para um faixa branca. Apaixonado pela capacidade da tecnologia que ela nos dá para resolvermos problemas .**
+
+**Background in:** Python, Machine Learning, estatística. 
+
+**Links:**
+* [LinkedIn](https://www.linkedin.com/in/lucasrsouza002/)
+
+ 
