@@ -11,5 +11,6 @@
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/lucasrsouza002/)
-
+## Projetos
+* [Analisando os Dados do Airbnb_New_York](https://github.com/Lucas-Rodrigues-code/Lucas-Rodrigues-code/blob/main/Analisando_os_Dados_do_Airbnb_New_York.ipynb)
  
