@@ -1,16 +1,16 @@
-### Hi there 👋
+ ![Logo do R](https://files.tecnoblog.net/wp-content/uploads/2022/06/capa-github.jpg)
+### Hello guys 👋
+--- 
+Sou um desenvolvedor Full Stack, que se apaixonou por programação, e atualmente estou estudando cada vez mais!
 
-<!--
-**Lucas-Rodrigues-code/Lucas-Rodrigues-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+ Algumas coisas sobre mim.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  🚀 Procurando colaborar em projetos com React/Node
+-  😀  Posso te ajudar com CSS, Styled Components, HTML, React, Node.js
+-  🖥️ My stack: ReactJS,Node.js and Typescript
+-  💬 Sobre mim: Sempre adorei tecnologia e sou um gamer nato óculos de solvideo_game!
+-  🤝 Entre em contato comigo:
+
+
+
