@@ -24,6 +24,7 @@ Sou um desenvolvedor Full Stack, que se apaixonou por programação, e atualment
 </div> 
 
 -  🤝 Entre em contato comigo:
+-  Curitiba, Paraná
         
 
 <div>
